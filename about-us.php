@@ -324,15 +324,15 @@
 									</div>
 								</div>
 								<div class="progress-label">
-									<span>Adobe Illustrator</span>
+									<span>Photoshop</span>
 								</div>
 								<div class="progress">
 									<div class="progress-bar progress-bar-primary" data-appear-progress-animation="75%" data-appear-animation-delay="600">
-										<span class="progress-bar-tooltip">95%</span>
+										<span class="progress-bar-tooltip">75%</span>
 									</div>
 								</div>
 								<div class="progress-label">
-									<span>Photoshop</span>
+									<span>Adobe Illustrator</span>
 								</div>
 								<div class="progress">
 									<div class="progress-bar progress-bar-primary" data-appear-progress-animation="85%" data-appear-animation-delay="900">
@@ -435,11 +435,11 @@
 						<div class="row">
 							<div class="col-md-12">
 								<div class="call-to-action-content">
-									<h3>Porto is <strong>everything</strong> you need to create an <strong>awesome</strong> website!</h3>
-									<p>The <strong>#1 Selling</strong> HTML Site Template on ThemeForest</p>
+									<h3>DEVart Studio adalah <strong>membuat website profesional </strong>dengan tampilan yang <strong> Elegant</strong> dan friendly!</h3>
+									<p>Terbaik dalam <strong></strong> Pengembang Web dan Web Analis</p>
 								</div>
 								<div class="call-to-action-btn">
-									<a href="http://themeforest.net/item/porto-responsive-html5-template/4106987" target="_blank" class="btn btn-lg btn-primary">Buy Now!</a><span class="arrow hlb hidden-xs hidden-sm hidden-md" data-appear-animation="rotateInUpLeft" style="top: -12px;"></span>
+									<a href="" target="_blank" class="btn btn-lg btn-primary">Proyek!</a><span class="arrow hlb hidden-xs hidden-sm hidden-md" data-appear-animation="rotateInUpLeft" style="top: -12px;"></span>
 								</div>
 							</div>
 						</div>
