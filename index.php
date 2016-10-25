@@ -334,22 +334,22 @@
 								<div class="tab-content">
 									<div class="tab-pane active" id="tabsNavigationSimpleIcons1">
 										<div class="center">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+											<p>Merancang sebuah website untuk menghasilkan website yang sangat menarik, bagus <a href="#">elegant</a> dan Terlihat Profesional dengan pengalaman kami dalam membuat sebuah website kami menggunakan metode strategy yang cukup handal agar menghasilkan website yang sangat bagus dan berkualitas.</p>
 										</div>
 									</div>
 									<div class="tab-pane" id="tabsNavigationSimpleIcons2">
 										<div class="center">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+											<p>Dengan tampilan yang sangat menarik kami membuat pengunjung merasa nyaman dan betah dalam mengujungi sebuah <a href="#">website</a> dengan ide-ide yang kreatif menjadi sebuah nilai tambah dalam pembuatan website agar terlihat menarik dan profesional yang akan membuat webiste terlihat sangat bagus dan elegant.</p>
 										</div>
 									</div>
 									<div class="tab-pane" id="tabsNavigationSimpleIcons3">
 										<div class="center">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus.Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+											<p>Dalam pengembangan ini kami selalu mengupdate informasi tentang apa saja yang baru dalam ilmu <a href="#">komputer</a> agar terciptanya pengembangan dalam menghasilkan sebuah website yang sangat baik, kami selalu memberikan yang terbaik dan selalu memberikan saran yang terbaik agar menghasilkan sebuah website yang menarik, berkualitas dan profesional.</p>
 										</div>
 									</div>
 									<div class="tab-pane" id="tabsNavigationSimpleIcons4">
 										<div class="center">
-											<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+											<p>Kami harapkan dapat memuaskan keinginan dan mencapai pasar sasaran serta tujuan perusahaan dalam menggunakan media website agar memudahkan dalam melakukan suatu <a href="#">promosi</a> menjadikan terciptanya sarana yang efektif dalam mencapai tujuan untuk mendapatkan hasil yang sangat baik dan efesien dalam menggunakan website.</p>
 										</div>
 									</div>
 								</div>
